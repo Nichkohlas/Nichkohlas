@@ -1,6 +1,6 @@
-### Nicholas Koh
+## Nicholas Koh
 
-## Fresh Graduate in Data Science & Business Analytics | Python, R, SQL, Tabelau
+# Fresh Graduate in Data Science & Business Analytics | Python, R, SQL, Tabelau
 
 <!--
 **Nichkohlas/Nichkohlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
