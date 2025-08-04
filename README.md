@@ -1,9 +1,17 @@
 ## Hey there! 👋
 
-Hi! I'm Nicholas, a fresh graduate in Data Science & Business Analytics, proficient in Python, R, SQL, and Tableau.
+Hi! I'm Nicholas, a Data Science & Business Analytics graduate, proficient in Python, R, SQL, and Tableau.
 
-💪 Passionate about using data to solve problems, and creating real-world impact.
+- 💪 Passionate about using data to solve problems, and creating real-world impact.
+- 📝 Currently focused onlearning and applying **machine learning models**, and building **real-world projects**.
+- 🌱 Outside of Data Analytics, I enjoy bowling and gardening, to unwind.
 
-📝 Currently focused on improving predictive accuracy skills using machine learning models.
+### Featured Coursework Projects
+- [**Programming for Data Science**](#)
 
-🌱 Outside of Data Analytics, I enjoy bowling and gardening, to unwind.
+### Connect with me
+- [Linkedin](https://www.linkedin.com/feed/)
+- **Email:** koh.100nicholas@gmail.com
+
+---
+
