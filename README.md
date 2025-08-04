@@ -1,3 +1,5 @@
+### Nicholas Koh
+
 ## Fresh Graduate in Data Science & Business Analytics | Python, R, SQL, Tabelau
 
 <!--
