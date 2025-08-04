@@ -8,8 +8,8 @@ Hi! I'm Nicholas, a Data Science & Business Analytics graduate, proficient in Py
 
 ### Featured Coursework Projects 📚
 - **Programming for Data Science**
-  - [Random Walk Metropolis Simulation](#)
-  - [US Flight Delay Analysis](#)
+  - [Random Walk Metropolis Simulation](https://github.com/Nichkohlas/Random-Walk-Metropolis-Simulation)
+  - [US Flight Delay Analysis](https://github.com/Nichkohlas/US-Flight-Delay-Analysis)
 
 ### Connect with me
 - **Linkedin:** [Nicholas Koh](https://www.linkedin.com/feed/)
